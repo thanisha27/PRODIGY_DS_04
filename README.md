@@ -1,6 +1,8 @@
 # PRODIGY_DS_04
 Task: Analyze and visualize sentiment patterns in social media data to understand public opinion and attitudes towards specific topics or brands.
+
 Steps:
+
  It uses several libraries, including Pandas, NumPy, Seaborn, Matplotlib, and scikit-learn for data analysis and visualization. Here's a breakdown of what each part of the code does:
  - Data Loading
    
